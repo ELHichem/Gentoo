@@ -4,7 +4,7 @@ L'objectif ici est de se familiariser avec le fonctionnement de l'ebuild en comm
 
 ## Prérequis
 
-Si vous avez correctement installé votre OS Gentoo il n'y aura pas besoin d'installer des outils supplémentaires. Sauf pour un cas que je vais vous présenter sous peu.
+Si vous avez correctement installé votre OS Gentoo il n'y aura pas besoin d'installer des outils supplémentaires. Sauf pour un cas que je vais vous présenter ci-dessous.
 
 
 ### Création de son repository perso 
